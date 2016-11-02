@@ -1,11 +1,19 @@
 {
   "name": "react-native-umeng-share",
   "version": "1.0.0",
-  "description": "",
+  "description": "react native友盟分享插件",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Magic",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolinsoft/react-native-umeng-share.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yolinsoft/react-native-umeng-share/issues"
+  },
+  "homepage": "https://github.com/yolinsoft/react-native-umeng-share#readme"
 }
