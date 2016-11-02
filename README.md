@@ -4,7 +4,10 @@
 
 ## 自动安装
 
-> npm install react-native-umeng-share --save
+> npm install react-native-umeng-share --save    
+  
+    
+> react-native link react-native-umeng-share
 
 ## 手动安装
 
