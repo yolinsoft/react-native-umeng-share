@@ -1,4 +1,6 @@
-# react native友盟分享插件
+# react native友盟分享插件 
+
+【已停止维护】官方已出React-Native版本，请移至官网地址 https://developer.umeng.com/docs/66632/detail/67587
 
 目前支持微信好友、微信朋友圈、微信收藏、新浪微博、QQ好友和QQ空间分享
 
